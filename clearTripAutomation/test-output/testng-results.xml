@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29616" started-at="2016-12-18T13:55:08Z" finished-at="2016-12-18T13:55:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29616" started-at="2016-12-18T13:55:08Z" finished-at="2016-12-18T13:55:38Z">
+      <class name="com.clearTrip.flights.tests.TestBookFlight">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.clearTrip.flights.tests.TestBookFlight@8bd1b6a]" name="init" is-config="true" duration-ms="6919" started-at="2016-12-18T19:25:02Z" finished-at="2016-12-18T19:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="bookHyderabadToBangaloreFlight()[pri:0, instance:com.clearTrip.flights.tests.TestBookFlight@8bd1b6a]" name="bookHyderabadToBangaloreFlight" duration-ms="29592" started-at="2016-12-18T19:25:08Z" finished-at="2016-12-18T19:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookHyderabadToBangaloreFlight -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.clearTrip.flights.tests.TestBookFlight@8bd1b6a]" name="close" is-config="true" duration-ms="222" started-at="2016-12-18T19:25:38Z" finished-at="2016-12-18T19:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.clearTrip.flights.tests.TestBookFlight -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
